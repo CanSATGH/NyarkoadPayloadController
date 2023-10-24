@@ -19,7 +19,7 @@
 
 3. **Additional Boards Manager URLs**:
    - In the Preferences dialog, find the "Additional Boards Manager URLs" field.
-   - Enter the URL: `https://github.com/CanSATGH/NyarkoadPayloadController/blob/master/Nyarkoa-Payload-0.0.1.zip?raw=true`
+   - Enter the URL: `https://github.com/CanSATGH/NyarkoadPayloadController/blob/master/package_nyarkoa_index.json`
 
 4. **Click OK** to save the preferences.
 
