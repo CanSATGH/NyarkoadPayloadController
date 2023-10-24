@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "nyarkoa",
-      "maintainer": "Erictronics Systems",
+      "maintainer": "Eric Obeng (Profesir) @ Erictronics Systems",
       "websiteUrl": "https://www.erictronics.com/",
-      "email": "erictronicsgh@gmail.com",
+      "email": "cansatgh@gmail.com",
       "platforms": [
         {
           "name": "Nyarkoa CanSAT Boards",
@@ -12,17 +12,17 @@
           "version": "0.0.1",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/ErictronicsGH/CanSAT-GH/blob/main/Nyarkoa-Payload-0.0.1.zip?raw=true",
+          "url": "https://github.com/CanSATGH/NyarkoadPayloadController/blob/master/Nyarkoa-Payload-0.0.1.zip?raw=true",
           "archiveFileName": "Nyarkoa-Payload-0.0.1.zip",
           "checksum": "SHA-256:55ff3fab050767f23bf8030897f97bce94548d2e633e45215535cb5459db1025",
           "size": 8168625,
           "boards": [
             {
-              "name": "Nyarkoa Payload"
+              "name": "Nyarkoa Payload Controller (mega328)"
             }
           ],
           "help": {
-            "online": "https://github.com/ErictronicsGH/CanSAT-GH/blob/main/README.md"
+            "online": "https://github.com/CanSATGH/NyarkoadPayloadController/blob/master/README.md"
           },
           "toolsDependencies": [
             {
@@ -47,7 +47,7 @@
       ],
       "tools": [],
       "help": {
-        "online": "https://github.com/ErictronicsGH/CanSAT-GH/blob/main/README.md"
+        "online": "https://github.com/CanSATGH/NyarkoadPayloadController/blob/master/README.md"
       }
     }
   ],
